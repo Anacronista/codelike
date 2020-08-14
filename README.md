@@ -1,2 +1,2 @@
 # codelike
-Python-based Roguelike using the API.
+Python-based Roguelike using the libtcod API.
