@@ -1,7 +1,8 @@
 # Codelike
 
-Python-based Roguelike using the libtcod API. Not done at all, will be updated as time goes on.
+Roguelike feito em Python com a API libtcord. Será atualizado conforme feito.
 
 Changelog:
 
-0.0.1 (14/08/20): Base files created (engine, entities, input handler, render functions, gamemap and tiles). You can walk around and stuff, there's also some basic collision
+0.0.1 (14/08/20): Arquivos base criados (engine, entidades, gerenciador de input (botões pressionados), renderizador, mapa de jogo e quadrados). 
+Você pode andar e tem um sistema de colisão básico.
